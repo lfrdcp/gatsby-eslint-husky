@@ -1,0 +1,9 @@
+node_modules
+package.json
+package-lock.json
+dist
+out
+.vscode
+public
+.cache
+src/gatsby-types.d.ts
